@@ -4,10 +4,10 @@ import { FirstExtension } from './theFirstExtension';
 import { TerminalExtension } from './terminal';
 import { ProblemsExtension } from './problems';
 import { RunningExtension } from './running';
-import { OneDarkPro } from './oneDarkPro/index';
+import { OneDarkPro } from './oneDarkPro';
 import { ExtendLocales } from './i18n';
 import { SettingsExtension } from './settings';
-import { MenuBarExtension } from './menubar/index';
+import { MenuBarExtension } from './menubar';
 import { ActionExtension } from './action';
 import { GoToGithubExtension } from './github';
 

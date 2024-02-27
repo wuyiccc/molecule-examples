@@ -29,9 +29,9 @@ function App() {
   return (
     <div className="App">
           <Routes>
-            <Route path="/" element={<CustomWorkbench />} />
+            {/*<Route path="/" element={<CustomWorkbench />} />*/}
             <Route path="vscode" element={<DefaultWorkbench />} />
-            <Route path="*" element={<NotFound />} />
+            {/*<Route path="*" element={<NotFound />} />*/}
           </Routes>
     </div>
   );
